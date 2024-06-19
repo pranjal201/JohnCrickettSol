@@ -25,6 +25,11 @@ namespace ccwc.Implementation
             string txt = Encoding.UTF8.GetString(buffer);
             return txt.Split(new char[] {' ','\n','\r','\t'}, StringSplitOptions.RemoveEmptyEntries).Length;
         }
-
+        public int CountCharacters(string path)
+        {
+            byte[] buffer = File.ReadAllBytes(path);
+            string txt = Encoding.UTF8.GetString(buffer);
+            return txt.Length;
+        }
     }
 }
