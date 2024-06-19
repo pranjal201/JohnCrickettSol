@@ -36,6 +36,10 @@ namespace ccwc
                         int words = wc.CountWords(filepath);
                         Console.WriteLine($"{words,8} {filepath}");
                         break;
+                    case "-x":
+                        int characters = wc.CountCharacters(filepath);
+                        Console.WriteLine($"{characters,20} {filepath}");
+                        break; 
                     default: Console.WriteLine("Enter a valid attribute");
                         break;
                 }
