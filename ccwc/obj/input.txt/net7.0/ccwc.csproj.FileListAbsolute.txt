@@ -1,0 +1,14 @@
+C:\PersonalStuff\DotNet\ccwc\bin\input.txt\net7.0\ccwc.exe
+C:\PersonalStuff\DotNet\ccwc\bin\input.txt\net7.0\ccwc.deps.json
+C:\PersonalStuff\DotNet\ccwc\bin\input.txt\net7.0\ccwc.runtimeconfig.json
+C:\PersonalStuff\DotNet\ccwc\bin\input.txt\net7.0\ccwc.dll
+C:\PersonalStuff\DotNet\ccwc\bin\input.txt\net7.0\ccwc.pdb
+C:\PersonalStuff\DotNet\ccwc\obj\input.txt\net7.0\ccwc.GeneratedMSBuildEditorConfig.editorconfig
+C:\PersonalStuff\DotNet\ccwc\obj\input.txt\net7.0\ccwc.AssemblyInfoInputs.cache
+C:\PersonalStuff\DotNet\ccwc\obj\input.txt\net7.0\ccwc.AssemblyInfo.cs
+C:\PersonalStuff\DotNet\ccwc\obj\input.txt\net7.0\ccwc.csproj.CoreCompileInputs.cache
+C:\PersonalStuff\DotNet\ccwc\obj\input.txt\net7.0\ccwc.dll
+C:\PersonalStuff\DotNet\ccwc\obj\input.txt\net7.0\refint\ccwc.dll
+C:\PersonalStuff\DotNet\ccwc\obj\input.txt\net7.0\ccwc.pdb
+C:\PersonalStuff\DotNet\ccwc\obj\input.txt\net7.0\ccwc.genruntimeconfig.cache
+C:\PersonalStuff\DotNet\ccwc\obj\input.txt\net7.0\ref\ccwc.dll
